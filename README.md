@@ -16,15 +16,9 @@ layout:
 
 # BananaTool一键发币
 
-{% hint style="success" %}
 B**ananaTool | 创建代币、批量空投和做市机器人等工具集**
 
 **在Eth、Bsc、Base、Solana、Tron、Sui、Ton等上创建代币、市值机器人、批量空投、批量归集等，助您轻松打造成功项目。**
-{% endhint %}
-
-{% hint style="info" %}
-**私有化部署**:<mark style="color:red;">专属 U 和 品牌 IP 定制，收款地址自定义，让您拥有和 BananaTool 一样好用的工具集。</mark>
-{% endhint %}
 
 ## **BananaTool一键发币平台全面介绍：轻松创建您的加密货币**
 
@@ -147,9 +141,7 @@ BananaTool作为一款领先的一键发币平台，通过其简单易用的界�
 
 如果您正在寻找一个可靠的发币工具来启动您的加密货币项目，BananaTool无疑是值得考虑的选择。立即访问官网，开始您的代币创建之旅吧！
 
-{% hint style="info" %}
-**点击加入**[**BananaTool官方交流群**](https://t.me/BananaTools) **交流反馈**
-{% endhint %}
+
 
 
 
