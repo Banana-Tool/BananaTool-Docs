@@ -1,9 +1,9 @@
 # Table of contents
 
 * [BananaTool一键发币](README.md)
-* [平台网站](ping-tai-wang-zhan.md)
-* [BananaTool服务费用公示](fee.md)
 * [联系我们](link.md)
+* [工具导航](gong-ju-dao-hang.md)
+* [BananaTool服务费用公示](fee.md)
 
 ## EVM代币创建 <a href="#token" id="token"></a>
 
@@ -18,6 +18,10 @@
 * [创建NFT](token/createnft.md)
 * [合约开源教程](token/verify.md)
 * [添加流动性教程](token/addpool.md)
+
+***
+
+* [手机TP钱包发币教程](tp.md)
 
 ## Solana链发币 <a href="#solana" id="solana"></a>
 
