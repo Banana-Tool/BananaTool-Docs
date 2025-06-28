@@ -98,26 +98,60 @@ icon: globe-pointer
 
 [Sui空投代币](https://sui.bananatool.com/airdrop)：SUI批量转账/空投代币、以及SUIl本币
 
-Sui发币教程：全网最详细的Sui发币教程，一分钟教会你在Sui区块链发币
+[Sui发币教程](https://docs.bananatool.com/sui/createtoken)：全网最详细的Sui发币教程，一分钟教会你在Sui区块链发币
 
-[Sui权限管理](https://sui.bananatool.com/mint-coin)：支持Sui代币进行增发、资料更新等操作s
+[Sui权限管理](https://sui.bananatool.com/mint-coin)：支持Sui代币进行增发、资料更新等操作
 
-Sui代币管理教程：学会使用PandaTool工具增发Sui代币
+[Sui代币燃烧](https://sui.bananatool.com/incinerator)：销毁代币
 
-#### 波场Tron一键发币 <a href="#bo-chang-tron-yi-jian-fa-bi" id="bo-chang-tron-yi-jian-fa-bi"></a>
+[Sui代币管理教程](https://docs.bananatool.com/sui/mint)：学会使用BananaTool工具增发Sui代币
 
-波场一键发币：全网最强的波场一键发币工具
+## **波场Tron一键发币** <a href="#bo-chang-tron-yi-jian-fa-bi" id="bo-chang-tron-yi-jian-fa-bi"></a>
 
-波场发币教程：最详细的波场链发币教程
+[波场一键发币](https://tron.bananatool.com/)：全网最强的波场一键发币工具
 
-波场代币开源：波场链TRC20代币在浏览器开源的教程
+[波场发币教程](https://docs.bananatool.com/tron/createtoken)：最详细的波场链发币教程
 
-波场代币更新：波场链TRC20代币更新资料的教程
+[波场代币开源](https://docs.bananatool.com/tron/verify)：波场链TRC20代币在浏览器开源的教程
 
-波场市值管理：全网最强的波场市值管理工具，支持批量交易
+[波场代币更新](https://docs.bananatool.com/tron/verify)：波场链TRC20代币更新资料的教程
 
-波场批量转账：全网最强的波场批量转账工具，支持TRX、USDT批量空投
+[波场市值管理](https://docs.bananatool.com/tron/verify)：全网最强的波场市值管理工具，支持批量交易
 
-{% hint style="info" %}
-**点击加入**[**BananaTool官方交流群**](https://t.me/BananaTools) **交流反馈**
-{% endhint %}
+[波场批量转账](https://docs.bananatool.com/tron/multisend)：全网最强的波场批量转账工具，支持TRX、USDT批量空投
+
+## **批量转账（空投）** <a href="#pi-liang-zhuan-zhang-kong-tou" id="pi-liang-zhuan-zhang-kong-tou"></a>
+
+[EVM链空投工具](https://www.bananatool.com/multisend)：支持BSC、Base、ETH、Arb等区块链的代币空投
+
+[EVM链空投教程](https://docs.bananatool.com/tron/multisend)：1分钟教会你在币安链、Base链上空投代币
+
+[Solana空投工具](https://sol.bananatool.com/tool/multisend)：支持Solana区块链上面的代币空投和sol批量转账
+
+[Solana空投教程](https://docs.bananatool.com/solana/multisend)：1分钟教会你在Solana区块链上空投代币
+
+## **批量生成钱包** <a href="#pi-liang-sheng-cheng-qian-bao" id="pi-liang-sheng-cheng-qian-bao"></a>
+
+[ETH兼容链工具](https://www.bananatool.com/CreateWallet/eth)：生成的钱包支持ETH、BSC、BASE、ARB等
+
+[波场链工具](https://tron.bananatool.com/wallet)：批量生成波场链TRX钱包
+
+[Solana创建钱包](https://sol.bananatool.com/tool/createwallet)：批量生成Solana钱包，1分钟生成几千个
+
+## **市值管理（支持BSC、ETH、Base、马蹄等链）** <a href="#shi-zhi-guan-li-zhi-chi-bscbase" id="shi-zhi-guan-li-zhi-chi-bscbase"></a>
+
+[市值管理工具](https://www.bananatool.com/Tool)：支持BSC、Base、ARB等
+
+[市值管理教程](https://docs.bananatool.com/bot/rise)：仔细阅读教程
+
+Solana市值管理机器人请参考Solana板块
+
+### **服务费用** <a href="#fu-wu-fei-yong" id="fu-wu-fei-yong"></a>
+
+[BananaTool收费标准](https://docs.bananatool.com/fee)：全网最低费用发币平台
+
+### **社交媒体** <a href="#she-jiao-mei-ti" id="she-jiao-mei-ti"></a>
+
+* Telegram：[https://t.me/BananaTools](https://t.me/BananaTools)
+* Twitter：[https://x.com/Banana\_Tool](https://x.com/Banana_Tool)
+* Youtuble: [https://www.youtube.com/@BananaTools/videos](https://www.youtube.com/@BananaTools/videos)
