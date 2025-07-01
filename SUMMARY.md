@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BananaTool一键发币](README.md)
+* [BananaTool一键发币平台](README.md)
 * [联系我们](link.md)
 * [工具导航](gong-ju-dao-hang.md)
 * [BananaTool服务费用公示](fee.md)
