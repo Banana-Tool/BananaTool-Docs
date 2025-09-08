@@ -40,6 +40,7 @@
 * [Solana批量归集(多转一)教程](solana/collector.md)
 * [Solana批量生成钱包教程](solana/wallet.md)
 * [幻影钱包Phantom安装教程](solana/phantom.md)
+* [单币加池子教程](solana/dan-bi-jia-chi-zi-jiao-cheng.md)
 
 ## 波场链发币 <a href="#tron" id="tron"></a>
 
