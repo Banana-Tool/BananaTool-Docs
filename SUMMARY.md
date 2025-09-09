@@ -106,6 +106,7 @@
 ## 锁 <a href="#lock" id="lock"></a>
 
 * [锁定代币](lock/token.md)
+* [锁定流动性](lock/pool.md)
 
 ## 实用信息 <a href="#help" id="help"></a>
 
