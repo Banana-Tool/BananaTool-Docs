@@ -1,16 +1,5 @@
 ---
 icon: rectangle-history
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 批量转账(多转多)教程

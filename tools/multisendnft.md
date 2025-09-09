@@ -1,16 +1,5 @@
 ---
 icon: square-right
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 批量发送NFT(一转多)教程

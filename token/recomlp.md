@@ -1,16 +1,5 @@
 ---
 icon: '7'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 推荐返利+加池分红代币

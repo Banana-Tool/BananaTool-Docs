@@ -102,3 +102,12 @@
 ## 抢跑机器人 <a href="#bot" id="bot"></a>
 
 * [🚀抢跑机器人](bot-1/contract-master.md)
+
+## 锁 <a href="#lock" id="lock"></a>
+
+* [锁定代币](lock/token.md)
+
+## 实用信息 <a href="#help" id="help"></a>
+
+* [小狐狸插件安装教程](help/metamask.md)
+* [主流币合约地址](help/native.md)

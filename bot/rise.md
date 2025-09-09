@@ -1,16 +1,5 @@
 ---
 icon: arrows-up-to-line
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 拉盘模式

@@ -1,17 +1,6 @@
 ---
 description: 业务合作、商务咨询、1V1 定制化服务随时可与我们联系。
 icon: envelope
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 联系我们

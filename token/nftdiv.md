@@ -1,16 +1,5 @@
 ---
 icon: '8'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # NFT分红代币

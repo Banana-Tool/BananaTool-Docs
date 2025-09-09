@@ -1,16 +1,5 @@
 ---
 icon: arrows-rotate-reverse
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # &#x20;刷交易量模式

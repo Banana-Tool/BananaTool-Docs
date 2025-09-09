@@ -1,16 +1,5 @@
 ---
 icon: album-collection
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 批量归集(多转一)教程
