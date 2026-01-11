@@ -73,7 +73,7 @@ icon: house
 
 ### **立即开启代币革命**
 
-**官网**：[BananaTool.com](https://www.bananatool.com/)\
+**官网**：[BananaTool.org](https://www.bananatool.org/)\
 **支持链**：Solana｜BSC｜ETH｜Base｜Tron｜Sui｜Ton｜Polygon｜Arbitrum\
 **核心能力**：\
 ✅ 一键发币 ✅ 创建代币 ✅ 支持多链 ✅ 批量转账 ✅ 批量空投
